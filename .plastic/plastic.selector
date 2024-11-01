@@ -1,0 +1,4 @@
+repository "GenUborka@andreythtand@cloud"
+  path "/"
+    br "/main"
+    co "/main"
